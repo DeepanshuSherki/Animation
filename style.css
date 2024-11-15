@@ -1,0 +1,31 @@
+#page1{
+  height: 1000px;
+  width: 100%;
+  background-color: rgb(139, 193, 60);
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+#page2{
+  height: 1000px;
+  width: 100%;
+  background-color: rgb(20, 20, 189);
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+#page3{
+  height: 1000px;
+  width: 100%;
+  display:flex;
+  align-items: left;
+  justify-content: left;
+  background-color: rgb(241, 141, 11);
+ 
+}
+#box{
+  height: 1000px;
+  width: 1000px;
+  background-color: crimson;
+  border-radius: 30%;
+}
